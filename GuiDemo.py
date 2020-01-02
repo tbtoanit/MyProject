@@ -9,6 +9,8 @@ except ImportError:
     from tkinter import ttk
     from tkinter.filedialog import askopenfilename
 
+    # I want to add a new line
+
 import pandas as pd
 
 # --- classes ---
